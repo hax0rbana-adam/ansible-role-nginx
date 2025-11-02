@@ -196,7 +196,6 @@ Rocky Linux:
 SUSE/SLES:
   - 15 SP6+
 Ubuntu:
-  - focal (20.04)
   - jammy (22.04)
   - noble (24.04)
 ```
