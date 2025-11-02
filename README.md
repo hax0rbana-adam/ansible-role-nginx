@@ -199,7 +199,6 @@ Ubuntu:
   - focal (20.04)
   - jammy (22.04)
   - noble (24.04)
-  - oracular (24.10)
 ```
 
 ### NGINX Plus
