@@ -174,7 +174,6 @@ AlmaLinux:
   - 8
   - 9
 Alpine:
-  - 3.18
   - 3.19
   - 3.20
   - 3.21
@@ -198,6 +197,7 @@ SUSE/SLES:
 Ubuntu:
   - jammy (22.04)
   - noble (24.04)
+  - plucky (25.04)
 ```
 
 ### NGINX Plus
