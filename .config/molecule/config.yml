@@ -178,11 +178,3 @@ platforms:
     volumes:
       - /sys/fs/cgroup:/sys/fs/cgroup:rw
     command: /sbin/init
-  - name: ubuntu-oracular
-    image: ubuntu:oracular
-    dockerfile: ../common/Dockerfile.j2
-    privileged: true
-    cgroupns_mode: host
-    volumes:
-      - /sys/fs/cgroup:/sys/fs/cgroup:rw
-    command: /sbin/init
